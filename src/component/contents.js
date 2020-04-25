@@ -16,65 +16,45 @@ export class contents extends Component {
     									<th>Email</th>
     									<th>Phone number</th>
                                         <th>Job title & company</th>
-                                        <th>Labels</th>
+										<th><i class="fas fa-ellipsis-v"></i></th>
     								</tr>
     							</thead>
     							<tbody>
                                     <tr>
-                                        <td>Contacts(7)</td>
+                                        <td>STARRED CONTACTS(5)</td>
                                     </tr>
     								<tr>
     									<th><a href="#" class="user-profile"><img src="img/user.jpg" alt=""/></a>Nhung</th>
     									<td>Pttn99@gmail.com</td>
                                         <td>0346194***</td>
                                         <td></td>
-                                        <td></td> 
     								</tr>
     								<tr>
     									<th><a href="#" class="user-profile"><img src="img/user.jpg" alt=""/></a>Nhung</th>
     									<td>Pttn99@gmail.com</td>
                                         <td>0346194***</td>
                                         <td></td>
-                                        <td></td> 
     								</tr>
 									<tr>
     									<th><a href="#" class="user-profile"><img src="img/user.jpg" alt=""/></a>Nhung</th>
     									<td>Pttn99@gmail.com</td>
                                         <td>0346194***</td>
                                         <td></td>
-                                        <td></td> 
+    								</tr>
+									<tr>
+    									<th><a href="#" class="user-profile"><img src="img/user.jpg" alt=""/></a>Nhung</th>
+    									<td>Pttn99@gmail.com</td>
+                                        <td>0346194***</td>
+                                        <td>ĐTDĐ</td>
     								</tr>
 									<tr>
     									<th><a href="#" class="user-profile"><img src="img/user.jpg" alt=""/></a>Nhung</th>
     									<td>Pttn99@gmail.com</td>
                                         <td>0346194***</td>
                                         <td></td>
-                                        <td></td> 
-    								</tr>
-									<tr>
-    									<th><a href="#" class="user-profile"><img src="img/user.jpg" alt=""/></a>Nhung</th>
-    									<td>Pttn99@gmail.com</td>
-                                        <td>0346194***</td>
-                                        <td></td>
-                                        <td></td> 
-    								</tr>
-									<tr>
-    									<th><a href="#" class="user-profile"><img src="img/user.jpg" alt=""/></a>Nhung</th>
-    									<td>Pttn99@gmail.com</td>
-                                        <td>0346194***</td>
-                                        <td></td>
-                                        <td></td> 
-    								</tr>
-									<tr>
-    									<th><a href="#" class="user-profile"><img src="img/user.jpg" alt=""/></a>Nhung</th>
-    									<td>Pttn99@gmail.com</td>
-                                        <td>0346194***</td>
-                                        <td></td>
-                                        <td></td> 
     								</tr>
     							</tbody>
     						</table>
-
     					</div>
     				</div>
     			</div>

@@ -40,7 +40,7 @@ export class header extends Component {
                     <div class="col-md-5">
                       <form>
                         <div class="input-group">
-                          <input type="text" class="form-control search-input" placeholder="Search..."/>
+                          <input className="form-control mr-sm-2" type="text" placeholder="Search" />
                           <button type="button" class="btn btn-light search-button"><i class="fas fa-search text-primary"></i></button>    									
                         </div>
                       </form>
